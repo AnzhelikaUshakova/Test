@@ -1,0 +1,20 @@
+{ 
+  "questions" : [ 
+
+	  {
+		"question_id": "NGQ_CL",
+		"display_label": "Price",
+		"is_required": true,
+		"is_required_for_order": true,
+		"is_hidden": true,
+		"section": 0,
+		"order": 0,
+		"display_type": "TEXT_INPUT",
+		"default_values": [],
+		"question_select_values": [],
+		"question_validation_rules": [],
+		"visibility_rule_groups": [],
+		"help_text": "help text"
+	  }
+	]
+}
